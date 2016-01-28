@@ -1,0 +1,7 @@
+{
+  "Path Type": "Directory",
+  "Path": "/path/to/data",
+  "Index Name": "nsadocs",
+  "Ignore Dir Import Ext": "N/A",
+  "Sort Field": "released_date"
+}
