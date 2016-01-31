@@ -1,7 +1,9 @@
 {
   "Path Type": "Directory",
-  "Path": "/path/to/data",
-  "Index Name": "nsadocs",
+  "Path": "/home/shidash/Code/NSA-Data/processed_data",
+    "Index Name": "nsadocs",
+    "Dataset Name": "Document",
   "Ignore Dir Import Ext": "N/A",
-  "Sort Field": "released_date"
+    "Sort Field": "released_date",
+    "Show Sort Field": "released_date"
 }

@@ -7,7 +7,9 @@
 	   "countries_mentioned", 
 	   "overall_classification", 
 	   "overall_relto"
-	   ],
+  ],
+    "Merge Categorical": [
+    ],
   "Searchable": [
   		"released_date",
 		"title",
@@ -58,7 +60,7 @@
 		 "overall_classification",
 		 "overall_relto"
       	  	 ],
-  "Item_Field": [],
+  "Item Field": [],
   "Truncate Text": [
   	    	   "doc_text"
   	    	   ]
