@@ -5,5 +5,6 @@
   "Local or Remote File": "remote",
   "File Path Attr": "pdf_paths",
   "Show Webpage?": "Yes",
-  "Web URL": "article_links"
+    "Web URL": "article_links",
+    "Tab Order": ["text", "pdf", "articles"]
 }
